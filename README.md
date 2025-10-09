@@ -36,4 +36,4 @@ Simple React todo app to add, edit, delete and mark tasks as finished. Todos are
 3. Build for production:
    - npm run build
 
-Todos persist in browser localStorage under the key `todos`. Deleting browser storage will remove saved todos.
+Todos persist in browser localStorage under the key `todos`.
