@@ -37,3 +37,7 @@ Simple React todo app to add, edit, delete and mark tasks as finished. Todos are
    - npm run build
 
 Todos persist in browser localStorage under the key `todos`.
+
+## Connect with me
+- **LinkedIn:** https://www.linkedin.com/in/devadi
+- **GitHub:** https://github.com/ADI-2707
