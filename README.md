@@ -51,11 +51,17 @@ Simple React todo app to add, edit, delete and mark tasks as finished. Todos are
 - `package.json` — dependencies (React, framer-motion, uuid, react-icons, Tailwind CSS)
 
 ## Run locally
+```
 1. Install dependencies:
    - npm install
 2. Start dev server:
    - npm start
 3. Build for production:
    - npm run build
+```
 
-Todos persist in browser localStorage under the key `todos`. Deleting browser storage will remove saved todos.
+Todos persist in browser localStorage under the key `todos`.
+
+## Connect with me
+- **LinkedIn:** https://www.linkedin.com/in/devadi
+- **GitHub:** https://github.com/ADI-2707
