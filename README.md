@@ -2,11 +2,33 @@
 
 Simple React todo app to add, edit, delete and mark tasks as finished. Todos are persisted to localStorage and animated with Framer Motion. UI uses Tailwind CSS and icons from react-icons.
 
+<p align='center'>
+<img src='assets/todo1.png' width=600>
+</p>
+
 ## Features
 - Add todos (input requires more than 3 characters).
+   <p align='center'>
+   <img src='assets/todo2.png' width=600>
+   </p>
 - Edit a todo (loads text into the input for modification).
+   <p align='center'>
+   <img src='assets/todo4.png' width=200>
+   <img src='assets/todo3.png' width=200>
+   <img src='assets/todo5.png' width=200>
+   </p>
 - Delete a todo.
+   <p align='center'>
+   <img src='assets/todo6.png' width=300>
+   <img src='assets/todo7.png' width=300>
+   </p>
+
 - Mark todo as finished (checkbox).
+   <p align='center'>
+   <img src='assets/todo8.png' width=300>
+   <img src='assets/todo9.png' width=300>
+   </p>
+
 - Toggle visibility of finished todos.
 - Persists todos in browser localStorage.
 - Small entry/exit animations using Framer Motion.
